@@ -41,3 +41,10 @@
 ```c
 #define UART_NAME       "uart5"
 #define BAUD_RATE       115200
+#define WLAN_SSID       "your"
+#define WLAN_PASSWORD   "your"
+#define MQTT_BROKER_URI   "tcp://broker.emqx.io:1883"
+#define MQTT_USERNAME     "emqx"
+#define MQTT_PASSWORD     "public"
+#define MQTT_PUB_TOPIC    "your"
+
