@@ -1,4 +1,4 @@
-# HLK-LD6002 跌倒检测系统（RT-Thread + MQTT）
+# 智居守护：PSoC6双核驱动的高精度雷达感知与隐私原生型3D孪生系统（RT-Thread + MQTT）
 
 本项目基于 [RT-Thread](https://www.rt-thread.io/) 实时操作系统，使用 **HLK-LD6002 毫米波雷达模块** 进行人体跌倒检测，并通过 MQTT 协议上传至云端。适用于老年人看护、居家健康监控等 IoT 场景。
 
